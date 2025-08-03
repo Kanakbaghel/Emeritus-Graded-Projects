@@ -1,6 +1,11 @@
 # 🎓 **Emeritus Graded Projects Repository**
 
-Welcome to the central hub for all my graded projects completed as part of the **Emeritus Data Science & Business Analytics Program @ IIT Guwahati**. This repository highlights my academic journey through hands-on projects using industry-standard tools.
+Welcome to the central hub for all my graded projects completed as part of the **Emeritus Data Science & Business Analytics with Gen AI Program @ IIT Guwahati**. This repository highlights my academic journey through hands-on projects using industry-standard tools.
+
+### Key Dates
+* Start Date: Thursday, March 27, 2025
+* End Date: Thursday, January 15, 2026
+* Programme Access Until : Friday, January 15, 2027
 
 ---
 
@@ -30,6 +35,7 @@ Stay tuned for more graded projects including:
 - Machine Learning Models
 - Data Modelling
 - Finance and Risk Analysis
+- Two Capstone Projects
 
 ---
 
