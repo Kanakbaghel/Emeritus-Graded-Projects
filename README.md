@@ -134,7 +134,7 @@ For ideas, check the "Future Additions" section or open an issue.
 Aspiring Data Scientist | BBA (FIA) Graduate  
 Building expertise in Data Science & Business Analytics with Gen AI through **Emeritus @ IIT Guwahati**  
 📍 Faridabad, Haryana, India  
-🔗 [GitHub Profile](https://github.com/kanakbaghel) | [LinkedIn](https://www.linkedin.com/in/kanakbaghel) | [Portfolio](https://yourportfolio.com)  
+🔗 [GitHub Profile](https://github.com/kanakbaghel) | [LinkedIn](https://www.linkedin.com/in/kanakbaghel) |
 
 Passionate about transforming data into actionable insights!
 
